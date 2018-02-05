@@ -10,7 +10,7 @@ function theBeatlesPlay (musicians, instruments) {
   } return newArray
 }
 
-// second one here we go
+// is gut
 var facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
